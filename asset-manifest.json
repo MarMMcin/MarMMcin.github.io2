@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MarMMcin/MarMMcin.github.io.git/static/css/main.3e0436ac.chunk.css",
+    "main.js": "/MarMMcin/MarMMcin.github.io.git/static/js/main.2d844db1.chunk.js",
+    "main.js.map": "/MarMMcin/MarMMcin.github.io.git/static/js/main.2d844db1.chunk.js.map",
+    "runtime~main.js": "/MarMMcin/MarMMcin.github.io.git/static/js/runtime~main.61964d6b.js",
+    "runtime~main.js.map": "/MarMMcin/MarMMcin.github.io.git/static/js/runtime~main.61964d6b.js.map",
+    "static/js/2.dd097d01.chunk.js": "/MarMMcin/MarMMcin.github.io.git/static/js/2.dd097d01.chunk.js",
+    "static/js/2.dd097d01.chunk.js.map": "/MarMMcin/MarMMcin.github.io.git/static/js/2.dd097d01.chunk.js.map",
+    "index.html": "/MarMMcin/MarMMcin.github.io.git/index.html",
+    "precache-manifest.bfed86adb49b0f79c7304d6d81d606c5.js": "/MarMMcin/MarMMcin.github.io.git/precache-manifest.bfed86adb49b0f79c7304d6d81d606c5.js",
+    "service-worker.js": "/MarMMcin/MarMMcin.github.io.git/service-worker.js",
+    "static/css/main.3e0436ac.chunk.css.map": "/MarMMcin/MarMMcin.github.io.git/static/css/main.3e0436ac.chunk.css.map",
+    "static/media/css3.svg": "/MarMMcin/MarMMcin.github.io.git/static/media/css3.3707da3c.svg",
+    "static/media/github.svg": "/MarMMcin/MarMMcin.github.io.git/static/media/github.0ff1a6f0.svg",
+    "static/media/html5.svg": "/MarMMcin/MarMMcin.github.io.git/static/media/html5.f0361c5e.svg",
+    "static/media/javascript.svg": "/MarMMcin/MarMMcin.github.io.git/static/media/javascript.61ed8b05.svg",
+    "static/media/nodejs.svg": "/MarMMcin/MarMMcin.github.io.git/static/media/nodejs.a1231528.svg",
+    "static/media/react.svg": "/MarMMcin/MarMMcin.github.io.git/static/media/react.4009eef3.svg",
+    "static/media/reactrouter.svg": "/MarMMcin/MarMMcin.github.io.git/static/media/reactrouter.02419671.svg",
+    "static/media/rzeszow.jpg": "/MarMMcin/MarMMcin.github.io.git/static/media/rzeszow.3f5ee2d2.jpg",
+    "static/media/sass.svg": "/MarMMcin/MarMMcin.github.io.git/static/media/sass.b446ca5a.svg"
+  }
+}
